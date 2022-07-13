@@ -1,3 +1,11 @@
+numpy
+pandas
+Levenshtein
+imageio
+mediapipe
+cv2
+statsmodels
+datetime
 flask
 flask_cors
 psycopg2-binary
